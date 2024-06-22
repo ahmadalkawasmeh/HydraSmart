@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1000549122933",
+    "project_id": "hydra-smart-2tpmqj",
+    "storage_bucket": "hydra-smart-2tpmqj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000549122933:android:18e89d3f27473f8111093c",
+        "android_client_info": {
+          "package_name": "com.mycompany.hydrasmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000549122933-bpd0h0fui63em3kd2p2s29o0b6ieoa56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.hydrasmart",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1000549122933-g06jm5diktb3sf4aamguqmokhmhsfkv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.hydrasmart",
+            "certificate_hash": "e31682d45397fc21c6a181f1cc5f1afc647c5903"
+          }
+        },
+        {
+          "client_id": "1000549122933-5v3ifptb9ssokn6jj2tdqg13bmddmlk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ZgNZGD9XnUNzcNVRdM0wOry5iJb6Byc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000549122933-5v3ifptb9ssokn6jj2tdqg13bmddmlk0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000549122933-bvauicnamdddk2nn6nvdapocmlfn3rc7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.hydrasmart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
